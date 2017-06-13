@@ -1,0 +1,15 @@
+2017-06-06 16:47:45,556 - logger - INFO - Guest : Accessed /index
+2017-06-06 16:47:48,464 - logger - INFO - Guest : Accessed /login
+2017-06-06 16:47:56,185 - logger - INFO - michael.arroyo@host.com : Successfully logged in - redirecting to /index
+2017-06-06 16:47:56,201 - logger - INFO - michael.arroyo@host.com : Accessed /index
+2017-06-06 16:48:01,779 - logger - INFO - michael.arroyo@host.com : Redirecting to /index from /signup
+2017-06-06 16:48:01,795 - logger - INFO - michael.arroyo@host.com : Accessed /index
+2017-06-06 16:48:06,495 - logger - INFO - michael.arroyo@host.com : Redirecting to /index from /login
+2017-06-06 16:48:06,511 - logger - INFO - michael.arroyo@host.com : Accessed /index
+2017-06-06 16:48:07,335 - logger - INFO - michael.arroyo@host.com : Redirecting to /index from /signup
+2017-06-06 16:48:07,345 - logger - INFO - michael.arroyo@host.com : Accessed /index
+2017-06-06 16:48:08,267 - logger - INFO - michael.arroyo@host.com : Redirecting to /index from /login
+2017-06-06 16:48:08,276 - logger - INFO - michael.arroyo@host.com : Accessed /index
+2017-06-06 16:48:10,608 - logger - INFO - michael.arroyo@host.com : Accessed /order
+2017-06-06 16:48:17,204 - logger - INFO - michael.arroyo@host.com : Placed an order. Details - {'pizza': 'Pepperoni', 'csrf_token': 'IjBlNThlMWE5ZDI0MGU1NDM4M2ZkOGZhODZmZWRiODJhNzFhZmQ2NWQi.DBi0mg.m9K46adTpI_Eqg7a3Pp6LVgzFLY', 'submit': True, 'time': {'am_pm': 'AM', 'hour': '1:', 'csrf_token': 'IjBlNThlMWE5ZDI0MGU1NDM4M2ZkOGZhODZmZWRiODJhNzFhZmQ2NWQi.DBi0mg.m9K46adTpI_Eqg7a3Pp6LVgzFLY', 'minute': '00'}, 'now_or_later': 'NOW', 'delivery': 'DELIVERY'}
+2017-06-06 17:05:27,826 - logger - INFO - Guest : Accessed /index
